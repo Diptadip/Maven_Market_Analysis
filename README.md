@@ -9,8 +9,8 @@ Dataset Link - https://www.kaggle.com/datasets/ukveteran/maven-market-datasets
 2. Creating the Data Model.
 3. Adding DAX Measures.
 4. Building the Report.
----------------------------------------------------------------------------
-Key takeaways while building this Dashboard:
+
+## Key takeaways while building this Dashboard:
 
 - Adding calculated/conditional columns whenever needed using
 Power Query.
